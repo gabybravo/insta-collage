@@ -1,0 +1,17 @@
+.navbar-default {
+    background-color: transparent;
+    border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.color {
+	background: rgba(205,112,112,1);
+}
+
+.logo {
+	width: 300px;
+
+}
