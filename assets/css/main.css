@@ -18,3 +18,52 @@ body {
 	font-weight: 200;
 	opacity: 0.9;
 }
+
+/* Section Logo y Formulario */
+
+.logo{
+	width: 100%;
+}
+
+.logo img{
+	width: 200px;
+}
+
+.input-group {
+	width: 100%;
+	padding: 10px 0;
+}
+
+.input-group input {
+	background-color: white;
+	border: none;
+	opacity: 0.3;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: transparent;
+    border: 1 solid #fff;
+    border-color: #fff;
+    border-radius: 0;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.4);    
+    border-color: #fff;
+    border: 1 solid #fff;    
+}
+
+.recuperar {
+	padding: 10px 0;
+	color: white;
+	font-size: 12px;
+	opacity: 0.8;
+}
+
+.recuperar a {
+	color: white;
+	text-decoration: none;
+	font-weight: 600;
+}
