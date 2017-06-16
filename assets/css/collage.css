@@ -6,7 +6,7 @@
 /* Section Wifi y Bateria Celular */
 
 .celular {
-	height: 25px;
+	height: 26px;
 	background-color: #3F3F3F;
 	display: inline-block;
 	color: white;
@@ -33,20 +33,21 @@ p {
 
 .collage {
 	background-color: #BFBFBF;
-	padding: 10px 15px;
+	padding: 5px 30px;
 }
 
 .caja1 {
 	width: 184px;
-	height: 200px;
+	height: 184px;
 	border: 1px solid #000;
 	border-color: #000; 
 	background-position: cover;
+	padding: 0;
 }
 
 .caja2 {
-	width: 200px;	
-	height: 400px;	
+	width: 184px;	
+	height: 368px;	
 	border: 1px solid #000;
 	border-color: #000; 
 }
@@ -60,7 +61,7 @@ p {
 
 .fondo p {
 	color: #45709A;
-	padding: 10px;
+	padding: 13px;
 	font-size: 20px;
 }
 
@@ -72,4 +73,21 @@ p {
 .colm-art img {
 	width: 100%;
 	background-position: cover;
+}
+
+/* Footer */
+
+.footer-gal {
+	background: #1C1D20;
+	color: #AAAAAA;
+	padding: 10px 0;
+}
+
+.footer-gal p {
+	display: inline-block;
+	padding: 0px 30px 0px;
+}
+
+.azul {
+	color: #659FED;
 }
