@@ -67,3 +67,44 @@ body {
 	text-decoration: none;
 	font-weight: 600;
 }
+
+/* Section Facebook */
+
+.facebook hr {
+	width: 100px;
+	margin: 0 15px;
+}
+
+.decoracion {
+	color: white;
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 20px;
+}
+
+.facebook {
+	padding: 10px;
+}
+
+.facebook a i {
+	font-size: 20px;
+}
+
+.facebook a {
+	color: white;
+	text-decoration: none;
+}
+
+/* Section Registro */
+
+.regristro {
+	color: white;
+}
+
+.regristro a {
+	color: white;
+	text-decoration: none;
+	font-weight: 600;	
+}
