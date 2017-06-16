@@ -28,3 +28,25 @@
 p {
 	margin: -2px 0px 0px;
 }
+
+/* Section Caja Contenedora de las Fotos */
+
+.collage {
+	background-color: #BFBFBF;
+	padding: 10px 15px;
+}
+
+.caja1 {
+	width: 184px;
+	height: 200px;
+	border: 1px solid #000;
+	border-color: #000; 
+	background-position: cover;
+}
+
+.caja2 {
+	width: 200px;	
+	height: 400px;	
+	border: 1px solid #000;
+	border-color: #000; 
+}
