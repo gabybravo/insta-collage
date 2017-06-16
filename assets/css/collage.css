@@ -50,3 +50,26 @@ p {
 	border: 1px solid #000;
 	border-color: #000; 
 }
+
+/* Section Galeria de Fotos */
+
+.fondo {
+	background-color: #1C1D20;
+	height: 50px;
+}
+
+.fondo p {
+	color: #45709A;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.colm-art {
+	padding-right: 0;
+    padding-left: 0;	
+}
+
+.colm-art img {
+	width: 100%;
+	background-position: cover;
+}
