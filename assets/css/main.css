@@ -108,3 +108,24 @@ body {
 	text-decoration: none;
 	font-weight: 600;	
 }
+
+/* Validación */
+
+.input-group span {
+	margin-top: 20px;
+}
+
+.input-group span:after {
+  content: "";
+  width: 10px;
+  height: 10px;
+}
+
+.s-span {
+	display: block;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 300;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
